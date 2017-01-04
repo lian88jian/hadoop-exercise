@@ -12,7 +12,7 @@ public class WordCountMapperTest {
 	public void test() {
 		
 		Text inValue = new Text("lian jian lian");
-		WordCountMapper mapper = new WordCountMapper();
+//		WordCountMapper mapper = new WordCountMapper();
 	}
 
 }
